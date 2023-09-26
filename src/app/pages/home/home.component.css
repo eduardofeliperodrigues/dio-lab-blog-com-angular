@@ -1,0 +1,12 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+}
+
+.content-container {
+  max-width: 980px;
+}
+
+.articles-container {
+  margin-top: 30px;
+}
