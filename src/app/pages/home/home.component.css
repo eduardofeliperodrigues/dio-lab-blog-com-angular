@@ -1,6 +1,7 @@
 .home-container {
   display: flex;
   justify-content: center;
+  height: 820px;
 }
 
 .content-container {
@@ -9,4 +10,12 @@
 
 .articles-container {
   margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.articles-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }

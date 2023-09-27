@@ -1,0 +1,26 @@
+.small-card-container {
+  border: solid #FFFFFF 1px;
+  width: 450px;
+  height: 110px;
+
+  display: flex;
+}
+
+.small-card-image > img{
+  max-height: 110px;
+}
+
+.text-container {
+  margin-left: 10px;
+}
+
+.small-card-title > h1{
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+.small-card-description > p {
+  margin-top: 10px;
+  color: #808080;
+  font-size: .8rem;
+}
