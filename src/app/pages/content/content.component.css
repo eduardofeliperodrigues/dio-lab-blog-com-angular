@@ -1,0 +1,26 @@
+.content-container {
+  display: flex;
+  justify-content: center;
+  height: 820px;
+}
+
+.content {
+  max-width: 980px;
+}
+
+.content-cover > img {
+  width: 100%;
+  max-height: 250px;
+}
+
+.content-title {
+  margin-top: 15px;
+}
+
+.content-description {
+  margin-top: 15px;
+}
+
+.content-description > p {
+  color: #808080;
+}
